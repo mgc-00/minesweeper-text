@@ -12,7 +12,7 @@ env/
 # Build/package artifacts
 build/
 dist/
-*.spec
+
 
 # Environment variables
 .env
